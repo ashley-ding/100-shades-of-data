@@ -1,2 +1,5 @@
-# 100-shades-of-data
-100 charts. Some recreated, some original, all fuelled by curiosity. 50 shades weren't enough.
+# 📊 100-shades-of-data
+
+50 Shades Weren't Enough.
+
+A personal challenge to create 100 data visualisations, from replicating charts that catch my eye to experimenting with original ideas. Along the way, I'll explore Python, R, visual storytelling, and the art of making data look good.
