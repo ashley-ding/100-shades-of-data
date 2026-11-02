@@ -1,4 +1,4 @@
-# 📊 100-shades-of-data
+# 📊 100 Shades of Data
 
 50 Shades Weren't Enough.
 
